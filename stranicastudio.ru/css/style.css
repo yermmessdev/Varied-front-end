@@ -1,0 +1,40 @@
+body {
+	background-color: #e3d6a8;
+}
+
+.page-index {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	overflow: hidden;
+}
+
+.navigation {
+	position: absolute;
+    top: -100%;
+    bottom: -100%;
+    left: 30%;
+    margin: 100px 0 0 -200px;
+    max-width: none;
+    width: 1200px;
+    background: #ffffff;
+	transform: rotate(50deg);
+}
+
+.navigation ul {
+	position: absolute;
+	top: 50%;
+	width: 1200px;
+	height: 1080px;
+}
+
+.navigarion ul li {
+	display: list-item;
+}
+
+.navigarion, .contact a, .stranica a, .about a, .vk a, .inst a {
+	position: absolute;
+	transform: rotate(-90deg);
+}
