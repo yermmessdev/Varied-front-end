@@ -1,5 +1,16 @@
-body {
+@import url(location.css);
+@import url(font.css);
+
+
+html, body {
 	background-color: #e3d6a8;
+	margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+	/*font-family: 'Stampbor Grunge Russian';*/
 }
 
 .page-index {
@@ -19,7 +30,6 @@ body {
     margin: 100px 0 0 -200px;
     max-width: none;
     width: 1200px;
-    background: #ffffff;
 	transform: rotate(50deg);
 }
 
@@ -28,13 +38,33 @@ body {
 	top: 50%;
 	width: 1200px;
 	height: 1080px;
+	font-size: 72px;
+	list-style-type: none;
 }
 
-.navigarion ul li {
+.navigation li a {
+	text-transform: uppercase;
+	position: absolute;
+	text-decoration: none;
+	color: #324c4e;
+	line-height: 0.8em;
+	text-shadow: 0 1px 1px #000;
+	/*box-shadow: 0 0 10px #000000;*/
+}
+
+.navigation li a:hover {
+	color: #ffffff;
+}
+
+.navigation ul li {
 	display: list-item;
+}
+
+.navigation li a img {
+	width: 70px;
+	fill: #324c4e;
 }
 
 .navigarion, .contact a, .stranica a, .about a, .vk a, .inst a {
 	position: absolute;
 	transform: rotate(-90deg);
-}

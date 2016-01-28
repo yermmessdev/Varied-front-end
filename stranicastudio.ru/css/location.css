@@ -1,0 +1,45 @@
+.navigation .contact a {
+	top: 18%;
+	left: 70px;
+	font-size: 55px;
+	border-bottom: groove 18px #c58a50;
+}
+
+.navigation .stranica a {
+	top: -5%;
+	left: -50px;
+	font-size: 135px;
+	color: #c58a50;
+	border-bottom: groove 18px #c58a50;
+}
+
+.navigation .price a {
+	top: -13%;
+	left: 390px;
+	font-size: 135px;
+	border-top: solid 12px #324c4e;
+	border-bottom: groove 18px #c58a50;
+}
+
+.navigation .bestw a {
+	top: 0;
+	left: 395px;
+	font-size: 65px;
+	border-bottom: solid 12px #324c4e;
+}
+
+.navigation .about a {
+	top: -288px;
+	left: 315px;
+	font-size: 70px;
+	border-bottom: solid 12px #324c4e;
+}
+
+.navigation .vk a {
+	top: 7%;
+	left: 380px;
+}
+
+.navigation .inst a {
+	top: -217px;
+	left: 465px;
