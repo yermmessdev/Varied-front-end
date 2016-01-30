@@ -1,0 +1,76 @@
+/* Смартфоны (портретный и альбомный режимы) ----------- */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+
+}
+ 
+/* Смартфоны (альбомный режим) ----------- */
+@media only screen
+and (min-width : 321px) {
+
+}
+ 
+/* Смартфоны (портретный режим) ----------- */
+@media only screen
+and (max-width : 320px) {
+
+}
+ 
+/* iPad (портретный и альбомный режимы) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px) {
+
+}
+ 
+/* iPad (альбомный режим) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : landscape) {
+
+}
+ 
+/* iPad (портретный режим) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : portrait) {
+
+}
+ 
+/* Настольные компьютеры и ноутбуки ----------- */
+@media only screen
+and (min-width : 1224px) {
+
+}
+ 
+/* Большие экраны ----------- */
+@media only screen
+and (min-width : 1824px) {
+
+}
+ 
+/* iPhone 5 (портретный и альбомный режимы)----------- */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px) {
+
+}
+ 
+/* iPhone 5 (альбомный режим)----------- */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px)
+and (orientation : landscape) {
+
+}
+ 
+/* iPhone 5 (портретный режим)----------- */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px)
+and (orientation : portrait) {
+
+}

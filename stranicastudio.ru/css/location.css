@@ -1,6 +1,6 @@
 .navigation .contact a {
-	top: 18%;
-	left: 70px;
+	top: 15%;
+	left: 35px;
 	font-size: 55px;
 	border-bottom: groove 18px #c58a50;
 }
@@ -14,7 +14,7 @@
 }
 
 .navigation .price a {
-	top: -13%;
+	top: -11%;
 	left: 390px;
 	font-size: 135px;
 	border-top: solid 12px #324c4e;
@@ -22,24 +22,26 @@
 }
 
 .navigation .bestw a {
-	top: 0;
-	left: 395px;
+	top: 30px;
+	left: 391px;
 	font-size: 65px;
+	padding-bottom: 40px;
 	border-bottom: solid 12px #324c4e;
 }
 
 .navigation .about a {
-	top: -288px;
-	left: 315px;
+	top: -300px;
+	left: 335px;
 	font-size: 70px;
+	padding-bottom: 40px;
 	border-bottom: solid 12px #324c4e;
 }
 
 .navigation .vk a {
-	top: 7%;
+	top: 13%;
 	left: 380px;
 }
 
 .navigation .inst a {
-	top: -217px;
-	left: 465px;
+	top: -205px;
+	left: 511px;
