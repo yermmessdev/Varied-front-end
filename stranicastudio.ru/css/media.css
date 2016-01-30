@@ -1,10 +1,77 @@
 /* Настольные компьютеры и ноутбуки ----------- */
-@media screen and (max-width : 1224px) {
+/*@media screen and (max-width : 1300px) {
 
 .navigation {
-	left: 30% !important;
+	left: 35% !important;
 }
 
+}*/
+
+@media screen and (max-width: 1299px) {
+.navigation {
+	left: 35% !important;
+}
+
+.navigation .contact a {
+	top: 14%;
+	left: 114px;
+	font-size: 45px;
+}
+
+.navigation .contact p {
+	margin: 0 0 -45px 130px;
+	font-size: 20px !important;
+}
+
+.navigation .stranica a {
+	top: 0;
+	left: 70px;
+	font-size: 100px;
+
+}
+
+.navigation .price a {
+	top: -7%;
+	left: 390px;
+	font-size: 100px;
+
+}
+
+.navigation .price p {
+    top: -215px;
+    left: 53%;
+    margin: -40px;
+    font-size: 20px;
+}
+
+.navigation .bestw a {
+	top: 45px;
+	left: 391px;
+	font-size: 50px;
+}
+
+.navigation .bestw p {
+	font-size: 32px;
+}
+
+.navigation .about a {
+	top: -190px;
+	left: 355px;
+	font-size: 45px;
+}
+
+.navigation .about p {
+	font-size: 25px;
+}
+
+.navigation .vk a {
+	top: 11%;
+	left: 380px;
+}
+
+.navigation .inst a {
+	top: -164px;
+	left: 470px;
 }
  
 /* Большие экраны ----------- */
