@@ -1,6 +1,6 @@
 @import url(location.css);
 @import url(font.css);
-
+@import url(media.css);
 
 html, body {
 	background-color: #e3d6a8;
